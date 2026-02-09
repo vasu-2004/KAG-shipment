@@ -1,0 +1,3 @@
+[submodule "UnifiedRAG"]
+	path = UnifiedRAG
+	url = https://github.com/vasu-2004/KAG-shipment.git
